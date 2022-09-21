@@ -32,7 +32,7 @@
     "vue-chartjs": "^3.5.0",
     "vue-shortkey": "^3.1.7",
     "vue-youtube": "^1.4.0",
-    "vuetify": "^2.3.4",
+    "vuetify": "^2.6.10",
     "yarn": "^1.22.4"
   },
   "devDependencies": {
